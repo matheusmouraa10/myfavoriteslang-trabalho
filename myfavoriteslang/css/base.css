@@ -1,0 +1,32 @@
+/*    
+--- CÓDIGO BASE --- 
+--- NÃO ALTERE ESSE CÓDIGO ---
+SE FOR NECESSÁRIO, DEIXE O COMENTÁRIO
+NA FRENTE DE SUA MUDANÇA PQ REALIZOU 
+A ALTERAÇÃO
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1F2937;
+    font-family: 'Inter';
+    font-weight: 400; /* Largura da fonte */
+    line-height: normal;
+}
+
+ul, li, p, h1, h2, h3, h4, h5, h6{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+
+.container{
+    width: 1000px;
+}
+
+.container-main{
+    width: 500px;
+}
